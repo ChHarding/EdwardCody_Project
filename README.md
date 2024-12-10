@@ -1,1 +1,0 @@
-This is a browser plug-in that tracks the movements of the cursor, and the clicks made. The URL, size of the browser, and time stamps are also recorded. Using this data, the user can generate heat maps of their cursor movements of click positions.
